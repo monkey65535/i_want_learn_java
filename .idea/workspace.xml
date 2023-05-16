@@ -5,10 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5eac469c-f291-45c3-9942-441eedc01b49" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ArrayTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Use/Use.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Use/UseA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Use/UseB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Use/UseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/utils/utils.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArrayTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArrayTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,10 +29,26 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="f65bab44-792e-4210-a845-bba03488bfc9" />
+        <option name="url" value="https://github.com/monkey65535/i_want_learn_java.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2PppSpaqFs4SoT60pWnWTNJydIG" />
+  <component name="ProjectLevelVcsManager">
+    <OptionsSetting value="false" id="Update" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -37,6 +57,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
     "node.js.detected.package.eslint": "true",
@@ -45,6 +66,7 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "C:/CONST/HelloJava/src/Main.java",
+    "settings.editor.selected.configurable": "editing.templates",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -63,9 +85,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="UseTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Use.UseTest" />
+      <module name="HelloJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Use.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="应用程序.ArrayTest" />
+        <item itemvalue="应用程序.UseTest" />
         <item itemvalue="应用程序.Main" />
       </list>
     </recent_temporary>
@@ -79,11 +115,24 @@
       <option name="presentableId" value="Default" />
       <updated>1684163882776</updated>
       <workItem from="1684163883882" duration="507000" />
-      <workItem from="1684164450348" duration="553000" />
+      <workItem from="1684164450348" duration="969000" />
+      <workItem from="1684243568863" duration="3137000" />
     </task>
+    <task id="LOCAL-00001" summary="update for IDEA">
+      <created>1684165089278</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1684165089278</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update for IDEA" />
+    <option name="LAST_COMMIT_MESSAGE" value="update for IDEA" />
   </component>
 </project>
