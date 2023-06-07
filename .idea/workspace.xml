@@ -5,8 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5eac469c-f291-45c3-9942-441eedc01b49" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/encap/Encapsulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/DynamicBinding/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/DynamicBinding/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/DynamicBinding/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/DynamicBinding/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Polymor/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Polymor/AnimalMaster.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Polymor/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Polymor/CatFood.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Polymor/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Polymor/DogFood.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Polymor/Food.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Polymor/PloyUse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Super/SuperA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/extend/Graduate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/extend/Pupil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/extend/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/extend/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/smallchange/ConsumptionRecord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/smallchange/SmallChangeSys.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/encap/Encapsulation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/encap/Encapsulation.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +61,7 @@
   <component name="ProjectId" id="2PppSpaqFs4SoT60pWnWTNJydIG" />
   <component name="ProjectLevelVcsManager">
     <OptionsSetting value="false" id="Update" />
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -54,37 +74,21 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/CONST/HelloJava/src/Main.java&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editing.templates&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDK&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.appearance&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="应用程序.Encapsulation">
-    <configuration name="ArrayTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArrayTest" />
-      <module name="HelloJava" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Encapsulation (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.encap.Encapsulation" />
-      <module name="HelloJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.encap.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="应用程序.SmallChangeSys">
     <configuration name="Encapsulation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.encap.Encapsulation" />
       <module name="HelloJava" />
@@ -99,18 +103,50 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+      <option name="MAIN_CLASS_NAME" value="com.DynamicBinding.Main" />
       <module name="HelloJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.DynamicBinding.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UseTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Use.UseTest" />
+    <configuration name="PloyUse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Polymor.PloyUse" />
       <module name="HelloJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Use.*" />
+          <option name="PATTERN" value="com.Polymor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SmallChangeSys" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.smallchange.SmallChangeSys" />
+      <module name="HelloJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.smallchange.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.extend.Test" />
+      <module name="HelloJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.extend.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,11 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.Encapsulation" />
-        <item itemvalue="应用程序.Encapsulation (1)" />
-        <item itemvalue="应用程序.ArrayTest" />
-        <item itemvalue="应用程序.UseTest" />
+        <item itemvalue="应用程序.SmallChangeSys" />
         <item itemvalue="应用程序.Main" />
+        <item itemvalue="应用程序.PloyUse" />
+        <item itemvalue="应用程序.Test" />
+        <item itemvalue="应用程序.Encapsulation" />
       </list>
     </recent_temporary>
   </component>
@@ -139,7 +175,15 @@
       <workItem from="1684163883882" duration="507000" />
       <workItem from="1684164450348" duration="969000" />
       <workItem from="1684243568863" duration="3898000" />
-      <workItem from="1684334047200" duration="2402000" />
+      <workItem from="1684334047200" duration="2866000" />
+      <workItem from="1684417560819" duration="2950000" />
+      <workItem from="1684764670328" duration="618000" />
+      <workItem from="1684935234623" duration="2149000" />
+      <workItem from="1685023590980" duration="2086000" />
+      <workItem from="1685370143367" duration="591000" />
+      <workItem from="1685630015597" duration="1112000" />
+      <workItem from="1686059982721" duration="1133000" />
+      <workItem from="1686147902923" duration="3675000" />
     </task>
     <task id="LOCAL-00001" summary="update for IDEA">
       <created>1684165089278</created>
@@ -155,7 +199,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684246950146</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="封装">
+      <created>1684338704031</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1684338704031</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -164,6 +215,27 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="update for IDEA" />
     <MESSAGE value="属性修饰符" />
-    <option name="LAST_COMMIT_MESSAGE" value="属性修饰符" />
+    <MESSAGE value="封装" />
+    <option name="LAST_COMMIT_MESSAGE" value="封装" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/extend/Test.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="((ConsumptionRecord[])SmallChangeSys.Ledger)[0].IncomeKey" custom="com.smallchange.ConsumptionRecord[]" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
