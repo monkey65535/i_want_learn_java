@@ -5,27 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5eac469c-f291-45c3-9942-441eedc01b49" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/DynamicBinding/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/DynamicBinding/B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/DynamicBinding/C.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/DynamicBinding/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Polymor/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Polymor/AnimalMaster.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Polymor/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Polymor/CatFood.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Polymor/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Polymor/DogFood.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Polymor/Food.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Polymor/PloyUse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Super/SuperA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/extend/Graduate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/extend/Pupil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/extend/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/extend/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/smallchange/ConsumptionRecord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/smallchange/SmallChangeSys.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/HomeWork/HomeWork01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/HomeWork/HomeWork2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/encap/Encapsulation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/encap/Encapsulation.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +66,7 @@
     &quot;project.structure.last.edited&quot;: &quot;SDK&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.appearance&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -183,7 +165,9 @@
       <workItem from="1685370143367" duration="591000" />
       <workItem from="1685630015597" duration="1112000" />
       <workItem from="1686059982721" duration="1133000" />
-      <workItem from="1686147902923" duration="3675000" />
+      <workItem from="1686147902923" duration="4435000" />
+      <workItem from="1686664093262" duration="2023000" />
+      <workItem from="1686666296018" duration="922000" />
     </task>
     <task id="LOCAL-00001" summary="update for IDEA">
       <created>1684165089278</created>
@@ -206,7 +190,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684338704031</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="零钱通小程序正在进行中">
+      <created>1686151664247</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1686151664247</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -216,7 +207,11 @@
     <MESSAGE value="update for IDEA" />
     <MESSAGE value="属性修饰符" />
     <MESSAGE value="封装" />
-    <option name="LAST_COMMIT_MESSAGE" value="封装" />
+    <MESSAGE value="零钱通小程序正在进行中" />
+    <option name="LAST_COMMIT_MESSAGE" value="零钱通小程序正在进行中" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
