@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5eac469c-f291-45c3-9942-441eedc01b49" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/HomeWork/HomeWork01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/HomeWork/HomeWork2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/HouseRent/Domain/House.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/HouseRent/HouseRentApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/HouseRent/Service/HouseService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/HouseRent/Utils/Utility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/HouseRent/View/HouseView.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,34 +52,36 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/CONST/HelloJava/src/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;SDK&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Notification.DisplayName-DoNotAsk-IDE and Plugin Updates": "IDE 和插件更新可用",
+    "Notification.DoNotAsk-IDE and Plugin Updates": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/CONST/HelloJava/src/Main.java",
+    "project.structure.last.edited": "SDK",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.keymap",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="应用程序.SmallChangeSys">
-    <configuration name="Encapsulation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.encap.Encapsulation" />
+}]]></component>
+  <component name="RunManager" selected="应用程序.HouseRentApp">
+    <configuration name="HouseRentApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.HouseRent.HouseRentApp" />
       <module name="HelloJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.encap.*" />
+          <option name="PATTERN" value="com.HouseRent.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.HouseRentApp" />
         <item itemvalue="应用程序.SmallChangeSys" />
         <item itemvalue="应用程序.Main" />
         <item itemvalue="应用程序.PloyUse" />
         <item itemvalue="应用程序.Test" />
-        <item itemvalue="应用程序.Encapsulation" />
       </list>
     </recent_temporary>
   </component>
@@ -167,7 +172,15 @@
       <workItem from="1686059982721" duration="1133000" />
       <workItem from="1686147902923" duration="4435000" />
       <workItem from="1686664093262" duration="2023000" />
-      <workItem from="1686666296018" duration="922000" />
+      <workItem from="1686666296018" duration="951000" />
+      <workItem from="1686838075085" duration="1929000" />
+      <workItem from="1688389523705" duration="92000" />
+      <workItem from="1688391207342" duration="216000" />
+      <workItem from="1688391621386" duration="152000" />
+      <workItem from="1688391990201" duration="9000" />
+      <workItem from="1688394280866" duration="57000" />
+      <workItem from="1688473234097" duration="575000" />
+      <workItem from="1688647474480" duration="4751000" />
     </task>
     <task id="LOCAL-00001" summary="update for IDEA">
       <created>1684165089278</created>
@@ -197,7 +210,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686151664247</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="零钱通小程序正在进行中">
+      <created>1686668892202</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1686668892202</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -220,6 +240,11 @@
           <url>file://$PROJECT_DIR$/src/com/extend/Test.java</url>
           <line>4</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/HouseRent/View/HouseView.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
